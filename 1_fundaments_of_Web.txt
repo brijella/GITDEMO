@@ -1,0 +1,47 @@
+MEAN 
+    >> m: mongodb ( a data base)
+    >> E: expression (backend)
+    >> A: angular( formtend)
+    >> N: nodejs ( backend)
+Three pillars 
+    >> HTML : (hyper text markup language)
+    >> CSS  : (cascading stype sheets)
+    >> JS   : (java script)
+    
+other stacks 
+   >> MERN , MEAN , JAVA FULL STACK 
+MEAN IS SAME AS MERN BUT R STAND FOR REACTJS 
+
+Web development
+   >> buliding /develpers Team
+   >> testing Team
+   >> hosting Team(Devops Team)
+   >> maintenance team/ support team
+
+SDLC( software development life cucle )
+   >> waterfall model
+   >> agile model
+   >> spiral model
+   >> Iterative model
+   >> Incremental model
+   >> v shaped model 
+   >> RAD(rapid application model)
+
+URL (uniform resouces locator)
+   https://www.instagram.com/
+   https://education.rohanacademy.edu/fullStack
+
+   https       :  protocall
+   rohanacademy: domain or server
+   education   : sub domain
+   .edu        :  TLD 
+   fullStack   : path/location 
+protocall:
+    >> set of rules is call protocall
+      http   : huper text transfer protocall
+      hattps : huper text transfer protocall secue
+      tcp    : tranmission control protocall
+      udp    : user datagram protocall
+      smtp   : simple mail transfer protocall
+      ftp    : file transfer protocall
+      ip     : internet protocall (ipV4/ipV6)
