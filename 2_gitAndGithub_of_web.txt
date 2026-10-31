@@ -1,0 +1,43 @@
+git 
+   >> version control
+   v1
+   v2
+   v3
+   new v4
+>> it is distributed(on cloud )
+>> Collaboration
+>> Recovery
+
+DOWNLOAD git and loging to github online 
+github 
+gitbucket 
+gitlabs 
+gitpod
+
+   >> for 1st you need to configure to git 
+   git config --global user.name "brijella"
+   git config --global user.email "srbrijeshm0@gmail.com"
+
+optional
+   >> git config --global color.ui auto
+
+mandatory step:
+
+
+git init
+
+FOR THISE STEP YOU NEED TO GO TO GITHUB AND AT REPOSITARY WHERE CODE WRITTEN SLCICK AND THAN AT LOCAL THEN TO HTTPS COPY THAT 
+git remote add origin https://github.com/brijella/GITDEMO.git 
+THIS STEP MAKE GLOBAL CONNECTION TO THE WORLD
+
+git pull origin main
+it will show what the thing in you github REPOSITARY
+
+git status     
+this will show what is not in your repostary like         1_fundaments_of_Web.txt   2_gitAndGithub_of_web.txt
+
+git add .
+this will add all repostary or we can add sigle by simple git add and name of file 
+git status
+git commit -m "commit massage "
+git push
