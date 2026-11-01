@@ -1,3 +1,26 @@
+curriculam 
+   >>introduction
+   >>html
+   >>css
+   >>javascript
+   >>jquery
+   >>bootstrao
+   >>manjor project killar wepsite
+   >>backend intro
+   >>nodejs
+   >>expressjs
+   >>api
+   >>git and github
+   >>els
+   >>mongodb
+   >>mongoose
+   >>putting all toghether
+   >>creating our own rest api
+   >>authontication and security
+   >>react js
+   >>major project let's travel wepsite   
+
+
 MEAN 
     >> m: mongodb ( a data base)
     >> E: expression (backend)

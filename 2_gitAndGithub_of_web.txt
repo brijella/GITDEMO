@@ -36,8 +36,17 @@ it will show what the thing in you github REPOSITARY
 git status     
 this will show what is not in your repostary like         1_fundaments_of_Web.txt   2_gitAndGithub_of_web.txt
 
-git add .
-this will add all repostary or we can add sigle by simple git add and name of file 
+git add .                         first comment  for add all file not in reposatary
+this will add all repostary or we can add sigle by simple git add and name of file    
 git status
+this will show status 
 git commit -m "commit massage "
+this will make commitament or add original but not re git hub 
+
 git push
+at last when you run this thise will show you this "git push --set-upstream origin master" to run 
+and we now directly see that data to github account click at master brance not at main 
+and if you want to merget main and master you need to click at compare at code than you can add descripation or leave than next to gren tag net green tag at last you will see merge than you see all folser at main folder
+
+to create new branch
+    >> git checkout -b "branch name "
