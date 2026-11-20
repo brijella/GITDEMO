@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laundry Mart</title>
+</head>
+
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Laundry Mart</h1>
+        <p>Your trusted laundry service partner.</p>
+
+        <nav>
+            <a href="#home">Home</a> |
+            <a href="#services">Our Services</a> |
+            <a href="#contact">Contact Us</a>
+        </nav>
+    </header>
+
+    <!-- Main Section -->
+    <main>
+
+        <section id="home">
+            <h2>About Us</h2>
+            <p>We provide quality washing, ironing and dry-cleaning services.</p>
+
+            <img src="laundry-room-CDr4P68Cqmm93eAS5AP24i-a5d9c7018bb04a6a81783ba182c26e93.jpg" alt="Laundry Services" width="300">
+        </section>
+
+        <!-- Services Section -->
+        <section id="services">
+            <h2>Our Services</h2>
+
+            <table border="1">
+                <tr>
+                    <th>Service Name</th>
+                    <th>Price</th>
+                </tr>
+                <tr>
+                    <td>Washing</td>
+                    <td>₹100</td>
+                </tr>
+                <tr>
+                    <td>Dry Cleaning</td>
+                    <td>₹200</td>
+                </tr>
+                <tr>
+                    <td>Ironing</td>
+                    <td>₹50</td>
+                </tr>
+                <tr>
+                    <td>Folding</td>
+                    <td>₹30</td>
+                </tr>
+            </table>
+        </section>
+
+        <!-- Booking Form -->
+        <section id="contact">
+            <h2>Book Your Laundry Service</h2>
+
+            <form action="#" method="post">
+
+                <label for="name">Full Name:</label>
+                <input type="text" id="name" name="name" required>
+                <br><br>
+
+                <label for="phone">Phone Number:</label>
+                <input type="tel" id="phone" name="phone" required>
+                <br><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+                <br><br>
+
+                <label for="service">Choose Service:</label>
+                <select id="service" name="service" required>
+                    <option value="">Select a service</option>
+                    <option value="washing">Washing</option>
+                    <option value="dry-cleaning">Dry Cleaning</option>
+                    <option value="ironing">Ironing</option>
+                    <option value="folding">Folding</option>
+                </select>
+                <br><br>
+
+                <!-- Real Submit Button -->
+                <button type="submit">Submit Booking</button>
+
+            </form>
+        </section>
+
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <h3>Contact Us</h3>
+        <p>Email: info@laundrymart.com</p>
+        <p>&copy; 2026 Laundry Mart. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>

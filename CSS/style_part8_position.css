@@ -1,0 +1,32 @@
+.container {
+    width: 600px;
+    height: 550px;
+    color: orange;
+    background-color: aqua;
+    margin: 100px;
+}
+.box {
+    color: red;
+    width:100px;
+    height:100px;
+}
+.sta {
+    position: static;
+    background-color: black;
+}
+.Abo{
+    /* position: absolute; */
+    background-color: green;
+}
+.Rel{
+    position: relative;
+    background-color: blue;
+    /* top: 50px; */
+    /* left: 100px; */
+}
+.Fix{
+    background-color: brown;
+}
+.Sti{
+    background-color: silver;
+}

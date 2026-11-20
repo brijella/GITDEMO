@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: rgb(201, 212, 212);
+}
+/* 2px is border marging and solid means non breakable line it can be dotted or anything which is present balck is for colors */
+main{
+    border: 2px solid black;
+    /* width: 70%; */
+    /* both above and below are same */
+    /* width: 90vw; */
+}
+/* %, vw (view width), vh(view height), px(pixxels), em, rem  */
+section {
+    border: 2px dotted red;
+    height: 85vw;
+    width: 150vh;
+}
+h2 {
+    font-size: 50px;
+}

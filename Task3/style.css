@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+    background-color: orange;
+}
+/* This is class tag */
+.head {
+    color: darkblue;
+}
+#bglime {
+    color: red;
+    background-color: black;
+}
+p {
+    color: white;
+}
+#para { 
+    color: green;
+}
+#para span {
+    color: black;
+    font-size: 25px;
+}
+ul {
+    color: white;
+}
+ul li:nth-child(1) a{
+    background-color: black;
+}
+ul li:nth-child(2) a{
+    background-color: rgba(119, 24, 91, 0.568);
+}
+ol{
+    color: #5a3a35;
+}
+ol li:nth-child(2) {
+    color: blue;
+}
+ol li:nth-child(3) {
+    color: red;
+}

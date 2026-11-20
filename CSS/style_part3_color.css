@@ -1,0 +1,17 @@
+body{
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    color: red;
+    background-color: rgba(0, 0, 0, 0.411);
+}
+/* This line is for another paragraph or another article */
+article{
+    background-color: purple;
+    color: white;
+    font-family: fantasy;
+    padding: 50px;
+    margin: 50px;
+    font-size: 25px;
+    border-radius: 50px;
+}

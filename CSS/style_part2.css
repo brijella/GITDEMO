@@ -1,0 +1,98 @@
+ /*
+selctor syntex
+SelectorType{
+    propertykey: propertyvalue;
+}
+*/
+/* 1. Element Selector  */
+/* p{
+    color : red;
+}
+
+h2{
+    color: blue;
+} */
+
+/* ID Selector */
+/* It is always with # if not added it would not apply */
+
+/* #pId{
+    color: violet;    
+} */
+
+/* #p1Id{
+    color: green;
+} */
+/* This is for writing multiples of class id selector and class selector at same time here is how  */
+/* This is Nested selector */
+/* #pId, #P1Id, .headstyle, p{
+    color: brown;
+    font-size: xx-small;
+} */
+
+/* Class Operators */
+/* Here class opertor starts with . */
+
+/* .p1Class{
+    color: red;
+} */
+
+/* or we can also use in html as class ="highter" so that we can heightlight by in css simply typing backgroundcolor ="yello" */
+
+/* .highlighter{
+    background-color: purple;
+} */ 
+
+/* This will also a class , and a class over class is written simply by define new class in previous class */
+
+/* .headstyle{
+    font-size: large;
+    color: red;
+
+} */
+
+/* precedence Who will come first */
+/* ID has always 1st priorty 
+Then We have Class as 2nd priorty then Element tag */
+/* #pId{
+    color: red;
+} */
+
+/* .headstyle{
+    color: brown;
+} */
+
+/* p{
+    color: yellow;
+} */
+/* Nested tag in Id tag and Class tag */
+
+/* #nestedId{
+    color: red;
+}
+.nestedClass{
+    color: green;
+}
+p{
+    color: yellow;
+} */
+
+/* Universal Selector */
+/* *{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+/*Descendant Selector */
+/* thise will style one first two paragraph */
+/* #d1scendant p{
+    color: red;
+} */
+/* Directed child Selector */
+/* #d1rect >p{
+    color: red;
+} */
+
+/* p:hover{
+    color: green;
+} */

@@ -4,8 +4,8 @@ curriculam
    >>css
    >>javascript
    >>jquery
-   >>bootstrao
-   >>manjor project killar wepsite
+   >>bootstrap
+   >>minor project killar wepsite
    >>backend intro
    >>nodejs
    >>expressjs
@@ -24,7 +24,7 @@ curriculam
 MEAN 
     >> m: mongodb ( a data base)
     >> E: expression (backend)
-    >> A: angular( formtend)
+    >> A: angular( frontend)
     >> N: nodejs ( backend)
 Three pillars 
     >> HTML : (hyper text markup language)
